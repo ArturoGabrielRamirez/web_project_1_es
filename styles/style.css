@@ -49,6 +49,11 @@ a {
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
+  width: 338px;
+}
+
+.header__link {
+  display: block;
 }
 
 .header__main-illustration {
